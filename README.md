@@ -1,4 +1,4 @@
-# echo-c-
+# echo-cpp
 
 ## Introduction
 This repository is dedicated to learning and practicing C++ programming, specifically focusing on functions and vectors. It contains various examples and exercises to help understand these concepts better.
