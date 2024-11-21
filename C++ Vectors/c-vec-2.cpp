@@ -7,3 +7,10 @@ int main(){
         cout<<number<<endl;
     } 
 }
+
+/* Alternate
+for (int i = 0; i < numbers.size(); i++) {
+    int number = numbers[i];
+    cout << number << endl;
+}
+*/
